@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.venv/
+venv/
+.env
+.DS_Store
+
+# VS Code
+.vscode/
+
+# Media (keep small demo only)
+*.mp4
+*.mov
+*.avi
+*.mkv
